@@ -1,0 +1,57 @@
+{
+  "users": [
+    {
+      "email": "misterardasher@gmail.com",
+      "password": "$2a$10$bCKgqaoLRx0rq6bpJyQmG.ylY2dCySNWSepD8VP7cegUAzqy3nWL2",
+      "name": "Ardasher",
+      "username": "milord__007",
+      "subscribers": [
+        2
+      ],
+      "subscriptions": [],
+      "id": 1,
+      "avatar": "uploads\\1690196377354.jpg"
+    },
+    {
+      "email": "john@gmail.com",
+      "password": "$2a$10$ZR21V6ooV6AMXmVKwH3SdOHorAYhOcNsN9c3ZCrcev4fQrdOHZ9um",
+      "name": "John",
+      "username": "john_77",
+      "subscribers": [],
+      "subscriptions": [
+        1
+      ],
+      "id": 2,
+      "avatar": "uploads\\1690197439979.jfif",
+      "about": "Frontender"
+    }
+  ],
+  "posts": [
+    {
+      "title": "never give up",
+      "date": 1690196233228,
+      "likes": 1,
+      "likedBy": [
+        2
+      ],
+      "saved": 0,
+      "savedBy": [],
+      "comments": [
+        {
+          "userId": 1,
+          "comment": "salom",
+          "id": 1690196251079
+        }
+      ],
+      "media": [
+        {
+          "type": "image/jpeg",
+          "src": "uploads\\1690196233224.jpg"
+        }
+      ],
+      "userId": 1,
+      "more": false,
+      "id": 1
+    }
+  ]
+}
